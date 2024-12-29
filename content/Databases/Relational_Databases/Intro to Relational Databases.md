@@ -6,6 +6,7 @@ tags:
 ## What is a Database?
 
 A database is a collection of data that is stored in a computer system. Databases are used to store, manage, and retrieve data. They are used in a wide variety of applications, from simple contact lists to complex financial systems.
+
 ## What is a Relational Database?
 
 <div style="text-align: center;">
