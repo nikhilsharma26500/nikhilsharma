@@ -1,10 +1,10 @@
 ---
-title: "MySQL Tutorial: Creating a Blog Database"
+title: "Creating a Blog Database"
 draft: false
 tags: mysql, sql, database, blog
 ---
  
-Let us try to understand SQL with an example of a blogging site in MySQL.
+Let us try to understand SQL with an example of a blogging site in [MySQL](https://www.mysql.com/).
 
 Here is how we can create a database named `blog`:
 
